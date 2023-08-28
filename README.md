@@ -2,7 +2,7 @@ Comparative Analysis of Linear Regression and Random Forest Models for Price Pre
 # 1. Executive Summary
 This report presents the results of a comparative analysis between linear regression and random forest models for predicting prices in a given dataset. The primary objective was to assess the predictive performance of these models and determine which one provides better accuracy and insights for price prediction. The evaluation was conducted using mean absolute error, root means squared error and R-squared metrics.
 # 2. Introduction
-In this project, I aimed to develop accurate price prediction models for a dataset centered around room rentals. Our focus was on comparing the predictive performance of two distinct models: linear regression and random forest. By leveraging the dataset's features and attributes, we sought to determine which model offered superior accuracy in estimating prices for rental accommodations. The models were evaluated based on established metrics, shedding light on their effectiveness in addressing the price prediction task.
+In this project, I aimed to develop accurate price prediction models for a dataset centered around room rentals. My focus was on comparing the predictive performance of two distinct models: linear regression and random forest. By leveraging the dataset's features and attributes, we sought to determine which model offered superior accuracy in estimating prices for rental accommodations. The models were evaluated based on established metrics, shedding light on their effectiveness in addressing the price prediction task.
 # 3. Methodology
 # 3.1 Data Preprocessing
 * The dataset was cleaned to handle missing values, outliers, and inconsistencies. 
